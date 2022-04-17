@@ -35,4 +35,4 @@ Por fim, enfatizo que o YouTube também é uma fonte valiosa nos estudos. Com at
 
 
 
-Desejo que você trilhe um caminho maravilhoso dentro desse campo profissional encantador! Até mais e obrigado pelos peixes!
+Desejo que você trilhe um caminho maravilhoso dentro desse campo profissional encantador e vasto! Até mais e obrigado pelos peixes!
