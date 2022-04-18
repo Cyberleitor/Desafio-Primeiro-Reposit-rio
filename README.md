@@ -4,7 +4,7 @@
 
 
 
-Olá, como você está?! Em 2022, comecei a estudar Programação a fim de ampliar as minhas oportunidades de trabalho. Contudo, apesar de meu interesse por tecnologia, não tinha familiaridade com muitas páginas que pudessem ajudar em meus primeiros passos. Assim, com este repositório, viso reunir alguns materiais úteis em minha caminhada a fim de que outras pessoas também contem com apoio.
+Olá, como você está?! Em 2022, comecei a estudar Programação a fim de ampliar as minhas oportunidades de trabalho. Contudo, apesar de meu interesse por tecnologia desde sempre, não tinha familiaridade com muitas páginas que pudessem ajudar em meus primeiros passos. Assim, com este repositório, viso reunir alguns materiais úteis em minha caminhada a fim de que outras pessoas também contem com apoio.
 
 
 
