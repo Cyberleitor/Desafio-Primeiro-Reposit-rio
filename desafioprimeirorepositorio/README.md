@@ -8,7 +8,7 @@ Olá, como você está?! Em 2022, comecei a estudar Programação a fim de ampli
 
 
 
-Quer começar a estudar programação, mas não está em uma condição financeira favorável? Em meu caso, um espaço crucial foi a [Digital Innovation One](https://www.dio.me/)!  Por meio dele, você poderá fazer cursos gratuitos e com certificação!
+Quer começar a estudar programação, mas não está em uma condição financeira favorável? Em meu caso, um espaço crucial foi a [Digital Innovation One](https://www.dio.me/)!  Por meio dele, você poderá fazer cursos gratuitos e com certificação! Outro site com muito material de qualidade e grátis é o [freeCodeCamp](https://www.freecodecamp.org/).
 
 
 
@@ -35,4 +35,4 @@ Por fim, enfatizo que o YouTube também é uma fonte valiosa nos estudos. Com at
 
 
 
-Desejo que você trilhe um caminho maravilhoso dentro desse campo profissional encantador e vasto! Até mais e obrigado pelos peixes!
+Desejo que você trilhe um caminho maravilhoso dentro desse campo profissional encantador e vasto! Até mais e obrigado pelos peixes! :)
