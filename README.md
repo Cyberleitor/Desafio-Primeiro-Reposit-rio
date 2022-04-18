@@ -31,7 +31,8 @@ Por fim, enfatizo que o YouTube também é uma fonte valiosa nos estudos. Com at
 - [HM Programming](https://www.youtube.com/c/HMProgramming/videos);
 - [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/videos);
 - [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo);
-- [Digital Innovation One](https://www.youtube.com/c/DigitalInnovationOne).
+- [Digital Innovation One](https://www.youtube.com/c/DigitalInnovationOne);
+- [Playlist para quando estiver programando](https://www.youtube.com/watch?v=p6xqKJqsQWs&list=PLLmeg99j6WvEAQFCLOnTrEEQHmlLW9Wjs).
 
 
 
