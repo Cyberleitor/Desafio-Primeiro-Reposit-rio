@@ -16,7 +16,7 @@ Quer conhecer o perfil do mercado de tecnologia da informação para decidir a r
 
 
 
-Para quem pretende ingressar na área de Programação, compreender como um algoritmo funciona é imprescindível! Contudo, não precisa se assustar com as expressões em inglês. Caso queira se familiarizar com o método de pensar característico da Programação usando um pseudocódigo escrito em português, recomendo-lhe o [Portugol](http://lite.acad.univali.br/portugol/), o qual tem diversos recursos que auxiliam demais quem está chegando a esse campo de conhecimento.
+Para quem pretende ingressar na área de Programação, compreender como um algoritmo funciona é imprescindível! Contudo, não precisa se assustar com as expressões em inglês. Todavia, estudar inglês, em paralelo, pode ajudar em seu desenvolvimento. Caso queira se familiarizar com o método de pensar característico da Programação usando um pseudocódigo escrito em português, recomendo-lhe o [Portugol](http://lite.acad.univali.br/portugol/), o qual tem diversos recursos que auxiliam demais quem está chegando a esse campo de conhecimento.
 
 
 
