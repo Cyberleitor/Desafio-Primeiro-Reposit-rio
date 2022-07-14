@@ -23,4 +23,4 @@ Por fim, enfatizo que o YouTube também é uma fonte valiosa nos estudos. Com at
 
 Desejo que você trilhe um caminho maravilhoso dentro desse campo profissional encantador e vasto! Até mais e obrigado pelos peixes!
 
-#### Meu e-mail de contato: johnothing@duck.com
+#### Meu e-mail de contato: johnnothing@duck.com
