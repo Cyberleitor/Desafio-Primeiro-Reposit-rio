@@ -1,6 +1,6 @@
-# Desafio – Primeiro Repositório no GitHub (DIO)
+# Desafio – Primeiro Repositório no GitHub
 
-#### Repositório criado com o objetivo de compilar materiais gratuitos --- disponibilizados na internet --- para o estudo de Programação
+#### Repositório criado com o objetivo de compilar materiais gratuitos — disponibilizados na internet — para o estudo de Programação
 
 
 Olá, como você está?! Em abril de 2022, comecei a estudar Programação a fim de ampliar as minhas oportunidades de trabalho. Contudo, apesar de meu interesse por tecnologia desde sempre, não tinha familiaridade com muitas páginas que pudessem ajudar em meus primeiros passos. Assim, com este repositório, viso reunir alguns materiais úteis em minha caminhada a fim de que outras pessoas também contem com apoio. Afinal, juntos temos mais força!
